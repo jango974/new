@@ -3,6 +3,6 @@ print "> "
 annee = gets.chomp.to_i 
 i = 0
 for num in annee..2018 
-	puts "#{num} > #{i} ans"
+	puts i
 	i +=1
 end
