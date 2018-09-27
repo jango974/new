@@ -10,4 +10,3 @@ i.upto(50) do |i|
 
 
 end
-print email[12]
